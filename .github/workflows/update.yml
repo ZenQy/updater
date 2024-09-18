@@ -1,4 +1,4 @@
-name: Update Dictionary
+name: Update Apps
 on:
   schedule:
     - cron: 0 20 * 1 *
@@ -67,5 +67,5 @@ jobs:
           git config --global user.name 'Automation - ZenQy'
           git config --global user.email 'zenqy.qin@gmail.com'
           git diff-index --quiet HEAD \
-          || (git commit -am "Update Dictionaries - Automated Commit" && git push || git stash)
+          || (git commit -am "Update - Automated Commit" && git push -u origin main || git stash)
 
