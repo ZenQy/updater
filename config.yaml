@@ -1,23 +1,31 @@
 - type: gamedva
   name: foldersync-pro
+  version: 4.0.1
 - type: gamedva
   name: electrocalc
+  version: 4.7.1
 - type: github
   name: breezy-weather/breezy-weather
+  version: v5.2.8
   filename: breezy-weather-arm64-v8a-$ver_standard.apk
 - type: github
   name: InfinityLoop1308/PipePipe
   perfix: v
+  version: 3.8.1
   filename: PipePipe_$ver-arm64-v8a-release.apk
 - type: github
   name: NeoApplications/Neo-Backup
+  version: 8.3.8
   filename: Neo_Backup_$ver_release.apk
 - type: github
   name: bmax121/APatch
+  version: "10763"
   filename: APatch_$ver_$ver-release-signed.apk
 - type: github
   name: gkd-kit/gkd
+  version: v1.8.0
   filename: gkd-$ver.apk
 - type: github
   name: gedoor/legado
+  version: "3.25"
   filename: legado_app_$ver.apk
