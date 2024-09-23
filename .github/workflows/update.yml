@@ -1,7 +1,7 @@
 name: Update Apps
 on:
   schedule:
-    - cron: 0 20 * 1 *
+    - cron: 0 20 */2 * *
   workflow_dispatch:
     inputs:
       debug_enabled:
