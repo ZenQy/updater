@@ -1,6 +1,6 @@
 - type: liteapks
   name: foldersync-pro
-  version: 4.0.1
+  version: 4.0.2
   url: https://liteapks.com/download/foldersync-pro-32296
 - type: liteapks
   name: hiedu-calculator-pro
@@ -8,7 +8,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: gamedva
   name: electrocalc
-  version: 4.7.1
+  version: "4.8"
   url: https://gamedva.com/electrocalc?download
 - type: github
   name: breezy-weather/breezy-weather
