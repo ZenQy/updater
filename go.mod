@@ -3,7 +3,7 @@ module main
 go 1.21.13
 
 require (
-	github.com/go-resty/resty/v2 v2.15.2
+	github.com/go-resty/resty/v2 v2.15.3
 	github.com/tidwall/gjson v1.17.3
 	gopkg.in/yaml.v3 v3.0.1
 )
