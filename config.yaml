@@ -28,8 +28,8 @@
   url: https://github.com/bmax121/APatch/releases/tag/10763
 - type: github
   name: gkd-kit/gkd
-  version: v1.9.0-beta.3
-  url: https://github.com/gkd-kit/gkd/releases/tag/v1.9.0-beta.3
+  version: v1.9.0
+  url: https://github.com/gkd-kit/gkd/releases/tag/v1.9.0
 - type: github
   name: gedoor/legado
   version: "3.25"
