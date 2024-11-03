@@ -16,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.2.8
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v3.8.2
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v3.8.2
+  version: v3.9.0
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v3.9.0
 - type: github
   name: NeoApplications/Neo-Backup
   version: 8.3.8
