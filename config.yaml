@@ -38,3 +38,5 @@
   name: aistra0528/Hail
   version: v1.8.1
   url: https://github.com/aistra0528/Hail/releases/tag/v1.8.1
+- type: github
+  name: fanenr/flutter-chatbot
