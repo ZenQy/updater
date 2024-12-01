@@ -16,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.2.8
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.0.0
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.0.0
+  version: v4.0.1
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.0.1
 - type: github
   name: NeoApplications/Neo-Backup
   version: 8.3.8
@@ -36,9 +36,9 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: aistra0528/Hail
-  version: v1.8.1
-  url: https://github.com/aistra0528/Hail/releases/tag/v1.8.1
+  version: v1.9.0
+  url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: fanenr/flutter-chatbot
-  version: v0.2.4-patch2
-  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.4-patch2
+  version: v0.2.4-patch3
+  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.4-patch3
