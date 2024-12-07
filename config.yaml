@@ -28,8 +28,8 @@
   url: https://github.com/bmax121/APatch/releases/tag/10763
 - type: github
   name: gkd-kit/gkd
-  version: v1.9.2
-  url: https://github.com/gkd-kit/gkd/releases/tag/v1.9.2
+  version: v1.9.3
+  url: https://github.com/gkd-kit/gkd/releases/tag/v1.9.3
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -40,5 +40,5 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: fanenr/flutter-chatbot
-  version: v0.2.6
-  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.6
+  version: v0.2.7-patch
+  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.7-patch
