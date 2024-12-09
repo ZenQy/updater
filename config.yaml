@@ -4,7 +4,7 @@
   url: https://liteapks.com/download/foldersync-pro-32296
 - type: liteapks
   name: hiedu-calculator-pro
-  version: 1.6.3
+  version: 1.6.4
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: gamedva
   name: electrocalc
@@ -40,5 +40,5 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: fanenr/flutter-chatbot
-  version: v0.2.7-patch
-  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.7-patch
+  version: v0.2.8-patch
+  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.8-patch
