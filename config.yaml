@@ -4,7 +4,7 @@
   url: https://liteapks.com/download/foldersync-pro-32296
 - type: liteapks
   name: hiedu-calculator-pro
-  version: 1.6.4
+  version: 1.6.5
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: gamedva
   name: electrocalc
@@ -12,8 +12,8 @@
   url: https://gamedva.com/electrocalc?download
 - type: github
   name: breezy-weather/breezy-weather
-  version: v5.2.8
-  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.2.8
+  version: v5.3.1
+  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.3.1
 - type: github
   name: InfinityLoop1308/PipePipe
   version: v4.0.1
@@ -40,5 +40,5 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: fanenr/flutter-chatbot
-  version: v0.2.8-patch
-  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.8-patch
+  version: v0.2.10
+  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.2.10

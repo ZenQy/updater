@@ -1,6 +1,6 @@
 module main
 
-go 1.23.3
+go 1.23.4
 
 require (
 	github.com/go-resty/resty/v2 v2.16.2
