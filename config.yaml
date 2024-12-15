@@ -20,8 +20,8 @@
   url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.0.1
 - type: github
   name: NeoApplications/Neo-Backup
-  version: 8.3.8
-  url: https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.8
+  version: 8.3.10
+  url: https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.10
 - type: github
   name: bmax121/APatch
   version: "10763"
