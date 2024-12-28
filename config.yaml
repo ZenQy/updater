@@ -4,10 +4,12 @@
   url: https://liteapks.com/download/foldersync-pro-32296
 - type: liteapks
   name: hiedu-calculator-pro
-- type: liteapks
-  name: telegram
   version: 1.6.6
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
+- type: liteapks
+  name: telegram
+  version: 11.5.5
+  url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
   version: v5.3.1
@@ -42,15 +44,29 @@
   url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.3.3
 - type: github
   name: ankidroid/Anki-Android
+  version: v2.20.1
+  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.20.1
 - type: github
   name: tiann/KernelSU
+  version: v1.0.2
+  url: https://github.com/tiann/KernelSU/releases/tag/v1.0.2
 - type: github
   name: obsidianmd/obsidian-releases
+  version: v1.7.7
+  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.7.7
 - type: github
   name: bitwarden/android
+  version: v2024.11.5
+  url: https://github.com/bitwarden/android/releases/tag/v2024.11.5
 - type: github
   name: gedoor/legado
+  version: "3.25"
+  url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
+  version: v1.10.5
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.10.5
 - type: liteapks
   name: mt-manager
+  version: 2.17.1
+  url: https://liteapks.com/download/mt-manager-2135
