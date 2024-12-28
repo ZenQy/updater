@@ -38,34 +38,15 @@ jobs:
           sudo -E apt -y autoremove --purge
           sudo -E apt -y clean
 
-          ##
-          url=https://go.dev/dl/
-          gofile=$(curl $url | grep "download downloadBox" | grep linux | awk -F '"|/' '{print $6}')
-          wget $url$gofile
-          sudo rm -rf /usr/local/go
-          sudo tar -C /usr/local -xzf $gofile
-          export PATH=$PATH:/usr/local/go/bin
-          go version
-
       - name: Setup tmate session
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
         uses: mxschmitt/action-tmate@v3
 
-      - uses: actions/cache@v4
-        with:
-          path: |
-            ~/.cache/go-build
-            ~/go/pkg/mod
-          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-go-
-
-      - name: go run
+      - name: update
         run: |
-          rm go.*
-          go mod init main
-          go mod tidy
-          go run *.go
+          wget https://github.com/ZenQy/updater/releases/latest/download/updater_x64
+          chmod +x updater_x64
+          ./updater_x64
 
       - name: Commit and Push
         run: |

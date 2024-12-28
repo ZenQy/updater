@@ -1,6 +1,7 @@
 package main
 
 import (
+	"errors"
 	"fmt"
 	"log/slog"
 	"os"
@@ -20,24 +21,27 @@ type Conf struct {
 
 func main() {
 	var conf []Conf
-	b, _ := os.ReadFile("config.yaml")
-	yaml.Unmarshal(b, &conf)
+	b, err := os.ReadFile("config.yaml")
+	if err != nil {
+		slog.Error("读取配置文件失败：", "err", err)
+		os.Exit(-1)
+	}
+	if err := yaml.Unmarshal(b, &conf); err != nil {
+		slog.Error("解析配置文件失败：", "err", err)
+		os.Exit(-1)
+	}
 
 	msg := ""
 
 	for i, c := range conf {
 		switch c.Type {
-		case "gamedva":
-			{
-				Gamedva(&c)
-				if conf[i].Version != c.Version {
-					conf[i] = c
-					msg += fmt.Sprintf("\n[🔗%s(%s)](%s)", c.Name, c.Version, c.URL)
-				}
-			}
 		case "liteapks":
 			{
-				Liteapks(&c)
+				err = Liteapks(&c)
+				if err != nil {
+					slog.Error("Liteapks", "error:", err)
+					break
+				}
 				if conf[i].Version != c.Version {
 					conf[i] = c
 					msg += fmt.Sprintf("\n[🔗%s(%s)](%s)", c.Name, c.Version, c.URL)
@@ -45,7 +49,11 @@ func main() {
 			}
 		case "github":
 			{
-				Github(&c)
+				err = Github(&c)
+				if err != nil {
+					slog.Error("Github", "error:", err)
+					break
+				}
 				if conf[i].Version != c.Version {
 					conf[i] = c
 					msg += fmt.Sprintf("\n[🔗%s(%s)](%s)", c.Name, c.Version, c.URL)
@@ -79,29 +87,11 @@ func Send(text string) {
 		SetBody(body).Post(url)
 }
 
-func Gamedva(c *Conf) {
-	client := resty.New()
-	resp, err := client.R().Get("https://gamedva.com/" + c.Name)
-	if err != nil {
-		slog.Error("gamedva:访问失败")
-		os.Exit(-1) // 查询失败
-	}
-	r := regexp.MustCompile(`<strong>Version</td><td>(.*?)</td>`)
-	m := r.FindStringSubmatch(resp.String())
-	if len(m) != 2 {
-		slog.Error("gamedva:正则查询版本号失败")
-		os.Exit(-1) // 查询失败
-	}
-	c.Version = m[1]
-	c.URL = "https://gamedva.com/" + c.Name + "?download"
-}
-
-func Liteapks(c *Conf) {
+func Liteapks(c *Conf) error {
 	client := resty.New()
 	resp, err := client.R().Get("https://liteapks.com/" + c.Name + ".html")
 	if err != nil {
-		slog.Error("liteapks:访问失败")
-		os.Exit(-1) // 查询失败
+		return err
 	}
 
 	txt := resp.String()
@@ -109,8 +99,7 @@ func Liteapks(c *Conf) {
 		r := regexp.MustCompile(`"softwareVersion": "(.*?) ?",`)
 		m := r.FindStringSubmatch(txt)
 		if len(m) != 2 {
-			slog.Error("liteapks:正则查询版本号失败")
-			os.Exit(-1) // 查询失败
+			return errors.New("正则查询版本号失败")
 		}
 		c.Version = m[1]
 	}
@@ -118,21 +107,22 @@ func Liteapks(c *Conf) {
 		r := regexp.MustCompile(`href="(https://liteapks.com/download/` + c.Name + `-\d+?)"`)
 		m := r.FindStringSubmatch(txt)
 		if len(m) != 2 {
-			slog.Error("liteapks:正则查询下载页面失败")
-			os.Exit(-1) // 查询失败
+			return errors.New("正则查询下载页面失败")
 		}
 		c.URL = m[1]
 	}
+
+	return nil
 }
 
-func Github(c *Conf) {
+func Github(c *Conf) error {
 	client := resty.New()
 	resp, err := client.R().Get("https://api.github.com/repos/" + c.Name + "/releases/latest")
 	if err != nil {
-		slog.Error("github:访问失败")
-		os.Exit(-1) // 查询失败
+		return err
 	}
 
 	c.Version = gjson.Get(resp.String(), "tag_name").String()
 	c.URL = "https://github.com/" + c.Name + "/releases/tag/" + c.Version
+	return nil
 }

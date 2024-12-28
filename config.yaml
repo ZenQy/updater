@@ -4,12 +4,10 @@
   url: https://liteapks.com/download/foldersync-pro-32296
 - type: liteapks
   name: hiedu-calculator-pro
+- type: liteapks
+  name: telegram
   version: 1.6.6
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
-- type: gamedva
-  name: electrocalc
-  version: "4.9"
-  url: https://gamedva.com/electrocalc?download
 - type: github
   name: breezy-weather/breezy-weather
   version: v5.3.1
@@ -42,3 +40,17 @@
   name: fanenr/flutter-chatbot
   version: v0.3.3
   url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.3.3
+- type: github
+  name: ankidroid/Anki-Android
+- type: github
+  name: tiann/KernelSU
+- type: github
+  name: obsidianmd/obsidian-releases
+- type: github
+  name: bitwarden/android
+- type: github
+  name: gedoor/legado
+- type: github
+  name: SagerNet/sing-box
+- type: liteapks
+  name: mt-manager
