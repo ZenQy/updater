@@ -47,6 +47,7 @@ jobs:
           wget https://github.com/ZenQy/updater/releases/latest/download/updater_x64
           chmod +x updater_x64
           ./updater_x64
+          rm updater_x64
 
       - name: Commit and Push
         run: |
