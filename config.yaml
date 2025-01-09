@@ -1,6 +1,6 @@
 - type: liteapks
   name: foldersync-pro
-  version: 4.1.0
+  version: 4.1.1
   url: https://liteapks.com/download/foldersync-pro-32296
 - type: liteapks
   name: hiedu-calculator-pro
@@ -56,8 +56,8 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.7.7
 - type: github
   name: bitwarden/android
-  version: v2024.12.0
-  url: https://github.com/bitwarden/android/releases/tag/v2024.12.0
+  version: v2025.1.0
+  url: https://github.com/bitwarden/android/releases/tag/v2025.1.0
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -68,5 +68,5 @@
   url: https://github.com/SagerNet/sing-box/releases/tag/v1.10.6
 - type: liteapks
   name: mt-manager
-  version: 2.17.2
+  version: 2.17.3
   url: https://liteapks.com/download/mt-manager-2135
