@@ -1,8 +1,4 @@
 - type: liteapks
-  name: foldersync-pro
-  version: 4.1.1
-  url: https://liteapks.com/download/foldersync-pro-32296
-- type: liteapks
   name: hiedu-calculator-pro
   version: 1.6.7
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
@@ -19,9 +15,7 @@
   version: v4.1.0
   url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.1.0
 - type: github
-  name: NeoApplications/Neo-Backup
-  version: 8.3.11
-  url: https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.11
+  name: XayahSuSuSu/Android-DataBackup
 - type: github
   name: bmax121/APatch
   version: "10763"

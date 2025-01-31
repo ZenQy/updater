@@ -34,7 +34,7 @@ jobs:
         run: |
           sudo rm -rf /etc/apt/sources.list.d/* /usr/share/dotnet /etc/mysql /usr/local/lib/android /opt/ghc
           sudo -E apt -y update
-          sudo -E apt -y install libime-bin wget curl
+          sudo -E apt -y install wget
           sudo -E apt -y autoremove --purge
           sudo -E apt -y clean
 
@@ -51,7 +51,7 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'Automation - ZenQy'
-          git config --global user.email 'zenqy.qin@gmail.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git diff-index --quiet HEAD \
           || (git commit -am "Update - Automated Commit" && git push || git stash)
