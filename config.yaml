@@ -1,10 +1,10 @@
 - type: liteapks
   name: hiedu-calculator-pro
-  version: 1.6.7
+  version: 1.6.9
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 11.6.1
+  version: 11.7.0
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -12,10 +12,12 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.3.1
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.1.0
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.1.0
+  version: v4.1.3
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.1.3
 - type: github
   name: XayahSuSuSu/Android-DataBackup
+  version: 2.0.7
+  url: https://github.com/XayahSuSuSu/Android-DataBackup/releases/tag/2.0.7
 - type: github
   name: bmax121/APatch
   version: "10763"
@@ -42,24 +44,24 @@
   url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.19.4
 - type: github
   name: tiann/KernelSU
-  version: v1.0.2
-  url: https://github.com/tiann/KernelSU/releases/tag/v1.0.2
+  version: v1.0.3
+  url: https://github.com/tiann/KernelSU/releases/tag/v1.0.3
 - type: github
   name: obsidianmd/obsidian-releases
-  version: v1.7.7
-  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.7.7
+  version: v1.8.4
+  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.4
 - type: github
   name: bitwarden/android
-  version: v2025.1.0
-  url: https://github.com/bitwarden/android/releases/tag/v2025.1.0
+  version: v2025.1.1
+  url: https://github.com/bitwarden/android/releases/tag/v2025.1.1
 - type: github
   name: gedoor/legado
   version: "3.25"
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.10.6
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.10.6
+  version: v1.11.0
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.0
 - type: liteapks
   name: mt-manager
   version: 2.17.3
