@@ -33,10 +33,10 @@ jobs:
       - name: Initialization Environment
         run: |
           sudo rm -rf /etc/apt/sources.list.d/* /usr/share/dotnet /etc/mysql /usr/local/lib/android /opt/ghc
-          sudo -E apt -y update
-          sudo -E apt -y install wget
-          sudo -E apt -y autoremove --purge
-          sudo -E apt -y clean
+          sudo -E apt-get -y update
+          sudo -E apt-get -y install wget
+          sudo -E apt-get -y autoremove --purge
+          sudo -E apt-get -y clean
 
       - name: Setup tmate session
         if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
