@@ -60,8 +60,8 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.0
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.0
+  version: v1.11.1
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.1
 - type: liteapks
   name: mt-manager
   version: 2.17.3
