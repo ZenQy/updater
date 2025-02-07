@@ -1,6 +1,6 @@
 - type: liteapks
   name: hiedu-calculator-pro
-  version: 1.6.9
+  version: 1.7.0
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
@@ -64,5 +64,5 @@
   url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.1
 - type: liteapks
   name: mt-manager
-  version: 2.17.3
+  version: 2.18.0
   url: https://liteapks.com/download/mt-manager-2135
