@@ -52,16 +52,16 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.4
 - type: github
   name: bitwarden/android
-  version: v2025.1.1
-  url: https://github.com/bitwarden/android/releases/tag/v2025.1.1
+  version: v2025.1.2
+  url: https://github.com/bitwarden/android/releases/tag/v2025.1.2
 - type: github
   name: gedoor/legado
   version: "3.25"
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.1
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.1
+  version: v1.11.3
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.3
 - type: liteapks
   name: mt-manager
   version: 2.18.0
