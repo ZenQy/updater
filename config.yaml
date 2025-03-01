@@ -8,8 +8,8 @@
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
-  version: v5.4.2
-  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.2
+  version: v5.4.3
+  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.3
 - type: github
   name: InfinityLoop1308/PipePipe
   version: v4.2.1
