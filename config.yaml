@@ -4,7 +4,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 11.8.1
+  version: 11.8.2
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -60,9 +60,9 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.4
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.4
+  version: v1.11.5
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.5
 - type: liteapks
   name: mt-manager
-  version: 2.18.0
+  version: 2.18.1
   url: https://liteapks.com/download/mt-manager-2135
