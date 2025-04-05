@@ -1,6 +1,6 @@
 - type: liteapks
   name: hiedu-calculator-pro
-  version: 1.7.1
+  version: 1.7.2
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
@@ -24,8 +24,8 @@
   url: https://github.com/bmax121/APatch/releases/tag/11039
 - type: github
   name: gkd-kit/gkd
-  version: v1.9.3
-  url: https://github.com/gkd-kit/gkd/releases/tag/v1.9.3
+  version: v1.10.1
+  url: https://github.com/gkd-kit/gkd/releases/tag/v1.10.1
 - type: github
   name: gedoor/legado
   version: "3.25"
