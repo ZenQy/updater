@@ -12,8 +12,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.6
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.2.4
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.2.4
+  version: v4.3.0
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.3.0
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.7
@@ -44,12 +44,12 @@
   url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.20.1
 - type: github
   name: tiann/KernelSU
-  version: v1.0.3
-  url: https://github.com/tiann/KernelSU/releases/tag/v1.0.3
+  version: v1.0.5
+  url: https://github.com/tiann/KernelSU/releases/tag/v1.0.5
 - type: github
   name: obsidianmd/obsidian-releases
-  version: v1.8.9
-  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.9
+  version: v1.8.10
+  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10
 - type: github
   name: bitwarden/android
   version: untagged-4731eaadac73f3dfbbb8
