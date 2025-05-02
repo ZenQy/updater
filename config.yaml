@@ -35,17 +35,9 @@
   version: v1.9.0
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
-  name: fanenr/flutter-chatbot
-  version: v0.3.5
-  url: https://github.com/fanenr/flutter-chatbot/releases/tag/v0.3.5
-- type: github
   name: ankidroid/Anki-Android
   version: v2.20.1
   url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.20.1
-- type: github
-  name: tiann/KernelSU
-  version: v1.0.5
-  url: https://github.com/tiann/KernelSU/releases/tag/v1.0.5
 - type: github
   name: obsidianmd/obsidian-releases
   version: v1.8.10
@@ -66,3 +58,7 @@
   name: mt-manager
   version: 2.18.2
   url: https://liteapks.com/download/mt-manager-2135
+- type: github
+  name: NitroRCr/AIaW
+- type: github
+  name: Jimex/DictTango-Android
