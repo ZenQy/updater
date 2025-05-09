@@ -4,7 +4,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 11.9.2
+  version: 11.11.0
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -52,19 +52,21 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.9
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.9
+  version: v1.11.10
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.10
 - type: liteapks
   name: mt-manager
-  version: 2.18.2
+  version: 2.18.3
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.6.1
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.6.1
+  version: v1.6.3
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.6.3
 - type: github
   name: Jimex/DictTango-Android
-  version: DictTango-FullAccessVersion-2.3.8
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/DictTango-FullAccessVersion-2.3.8
+  version: v2.3.2.9
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.2.9
 - type: github
   name: lollipopkit/flutter_server_box
+  version: v1.0.1130
+  url: https://github.com/lollipopkit/flutter_server_box/releases/tag/v1.0.1130
