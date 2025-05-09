@@ -66,3 +66,5 @@
   name: Jimex/DictTango-Android
   version: DictTango-FullAccessVersion-2.3.8
   url: https://github.com/Jimex/DictTango-Android/releases/tag/DictTango-FullAccessVersion-2.3.8
+- type: github
+  name: lollipopkit/flutter_server_box
