@@ -12,8 +12,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.7
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.3.1
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.3.1
+  version: v4.4.0
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.4.0
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.7
@@ -52,16 +52,16 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.10
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.10
+  version: v1.11.11
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.11
 - type: liteapks
   name: mt-manager
   version: 2.18.3
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.6.3
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.6.3
+  version: v1.7.2
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.2
 - type: github
   name: Jimex/DictTango-Android
   version: v2.3.2.9
