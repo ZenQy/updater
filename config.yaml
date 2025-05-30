@@ -16,16 +16,16 @@
   url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.4.0
 - type: github
   name: XayahSuSuSu/Android-DataBackup
-  version: 2.0.7
-  url: https://github.com/XayahSuSuSu/Android-DataBackup/releases/tag/2.0.7
+  version: 2.0.9
+  url: https://github.com/XayahSuSuSu/Android-DataBackup/releases/tag/2.0.9
 - type: github
   name: bmax121/APatch
   version: "11039"
   url: https://github.com/bmax121/APatch/releases/tag/11039
 - type: github
   name: gkd-kit/gkd
-  version: v1.10.3
-  url: https://github.com/gkd-kit/gkd/releases/tag/v1.10.3
+  version: v1.10.4
+  url: https://github.com/gkd-kit/gkd/releases/tag/v1.10.4
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -44,8 +44,8 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10
 - type: github
   name: bitwarden/android
-  version: v2025.4.0
-  url: https://github.com/bitwarden/android/releases/tag/v2025.4.0
+  version: v2025.5.0-bwa
+  url: https://github.com/bitwarden/android/releases/tag/v2025.5.0-bwa
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -60,8 +60,8 @@
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.7.2
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.2
+  version: v1.7.3
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.3
 - type: github
   name: Jimex/DictTango-Android
   version: v2.3.2.9
