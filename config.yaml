@@ -1,4 +1,6 @@
 - type: liteapks
+  name: via-browser
+- type: liteapks
   name: hiedu-calculator-pro
   version: 1.7.4
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
