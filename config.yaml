@@ -1,5 +1,7 @@
 - type: liteapks
   name: via-browser
+  version: 6.5.1
+  url: https://liteapks.com/download/via-browser-99349
 - type: liteapks
   name: hiedu-calculator-pro
   version: 1.7.4
@@ -14,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.7
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.4.2
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.4.2
+  version: v4.5.0
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.5.0
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.9
@@ -54,8 +56,8 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.13
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.13
+  version: v1.11.14
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.14
 - type: liteapks
   name: mt-manager
   version: 2.18.4
