@@ -48,8 +48,8 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10
 - type: github
   name: bitwarden/android
-  version: v2025.5.0-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2025.5.0-bwpm
+  version: v2025.6.1-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2025.6.1-bwpm
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -68,8 +68,8 @@
   url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.5
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.2.9
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.2.9
+  version: v2.3.3.0
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.3.0
 - type: github
   name: lollipopkit/flutter_server_box
   version: v1.0.1189
