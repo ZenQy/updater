@@ -24,8 +24,8 @@
   url: https://github.com/XayahSuSuSu/Android-DataBackup/releases/tag/2.0.9
 - type: github
   name: bmax121/APatch
-  version: "11039"
-  url: https://github.com/bmax121/APatch/releases/tag/11039
+  version: "11107"
+  url: https://github.com/bmax121/APatch/releases/tag/11107
 - type: github
   name: gkd-kit/gkd
   version: v1.10.4
@@ -40,8 +40,8 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: ankidroid/Anki-Android
-  version: v2.20.1
-  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.20.1
+  version: v2.21.0
+  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.21.0
 - type: github
   name: obsidianmd/obsidian-releases
   version: v1.8.10
@@ -56,8 +56,8 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.14
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.14
+  version: v1.11.15
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.15
 - type: liteapks
   name: mt-manager
   version: 2.18.4
