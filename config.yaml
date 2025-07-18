@@ -16,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.8
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.5.0
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.5.0
+  version: v4.6.0
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.6.0
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.9
@@ -40,8 +40,8 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: ankidroid/Anki-Android
-  version: v2.21.0
-  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.21.0
+  version: v2.21.1
+  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.21.1
 - type: github
   name: obsidianmd/obsidian-releases
   version: v1.8.10
@@ -64,8 +64,8 @@
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.7.5
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.5
+  version: v1.7.6
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.6
 - type: github
   name: Jimex/DictTango-Android
   version: v2.3.3.0
