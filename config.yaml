@@ -40,16 +40,16 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: ankidroid/Anki-Android
-  version: v2.21.1
-  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.21.1
+  version: v2.22.2
+  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.22.2
 - type: github
   name: obsidianmd/obsidian-releases
   version: v1.8.10
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10
 - type: github
   name: bitwarden/android
-  version: v2025.6.1-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2025.6.1-bwpm
+  version: v2025.7.0-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2025.7.0-bwpm
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -64,12 +64,12 @@
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.7.6
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.6
+  version: v1.7.8
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.8
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.3.0
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.3.0
+  version: v2.3.3.3
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.3.3
 - type: github
   name: lollipopkit/flutter_server_box
   version: v1.0.1189
