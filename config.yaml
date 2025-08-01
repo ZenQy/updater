@@ -16,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.8
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.6.0
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.6.0
+  version: v4.6.1
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.6.1
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.9
@@ -48,8 +48,8 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10
 - type: github
   name: bitwarden/android
-  version: v2025.7.0-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2025.7.0-bwpm
+  version: v2025.7.1-bwa
+  url: https://github.com/bitwarden/android/releases/tag/v2025.7.1-bwa
 - type: github
   name: gedoor/legado
   version: "3.25"
@@ -64,13 +64,13 @@
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.7.8
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.8
+  version: v1.7.9
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.9
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.3.3
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.3.3
+  version: v2.3.3.4
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.3.4
 - type: github
   name: lollipopkit/flutter_server_box
-  version: v1.0.1189
-  url: https://github.com/lollipopkit/flutter_server_box/releases/tag/v1.0.1189
+  version: v1.0.1201
+  url: https://github.com/lollipopkit/flutter_server_box/releases/tag/v1.0.1201
