@@ -40,32 +40,32 @@
   url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
 - type: github
   name: ankidroid/Anki-Android
-  version: v2.22.2
-  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.22.2
+  version: v2.22.3
+  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.22.3
 - type: github
   name: obsidianmd/obsidian-releases
   version: v1.8.10
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.8.10
 - type: github
   name: bitwarden/android
-  version: v2025.7.1-bwa
-  url: https://github.com/bitwarden/android/releases/tag/v2025.7.1-bwa
+  version: v2025.7.2-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2025.7.2-bwpm
 - type: github
   name: gedoor/legado
   version: "3.25"
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.11.15
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.11.15
+  version: v1.12.0
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.0
 - type: liteapks
   name: mt-manager
   version: 2.18.4
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
-  version: v1.7.9
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.9
+  version: v1.7.10
+  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.7.10
 - type: github
   name: Jimex/DictTango-Android
   version: v2.3.3.4
