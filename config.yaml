@@ -12,12 +12,12 @@
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
-  version: v5.4.8
-  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v5.4.8
+  version: v6.0.8-beta
+  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v6.0.8-beta
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.7.1
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.7.1
+  version: v4.7.2
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.7.2
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.11
@@ -44,8 +44,8 @@
   url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.22.3
 - type: github
   name: obsidianmd/obsidian-releases
-  version: v1.9.10
-  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.10
+  version: v1.9.12
+  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.12
 - type: github
   name: bitwarden/android
   version: v2025.8.0-bwpm
@@ -56,8 +56,8 @@
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.12.3
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.3
+  version: v1.12.4
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.4
 - type: liteapks
   name: mt-manager
   version: 2.18.4
