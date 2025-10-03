@@ -44,12 +44,12 @@
   url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.22.3
 - type: github
   name: obsidianmd/obsidian-releases
-  version: v1.9.12
-  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.12
+  version: v1.9.14
+  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.14
 - type: github
   name: bitwarden/android
-  version: v2025.9.0-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2025.9.0-bwpm
+  version: v2025.9.1-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2025.9.1-bwpm
 - type: github
   name: gedoor/legado
   version: "3.25"
