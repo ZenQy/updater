@@ -48,19 +48,19 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.14
 - type: github
   name: bitwarden/android
-  version: v2025.9.1-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2025.9.1-bwpm
+  version: v2025.10.0-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2025.10.0-bwpm
 - type: github
   name: gedoor/legado
   version: "3.25"
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.12.9
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.9
+  version: v1.12.10
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.10
 - type: liteapks
   name: mt-manager
-  version: 2.19.1
+  version: 2.19.2
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: NitroRCr/AIaW
