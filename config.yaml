@@ -1,6 +1,6 @@
 - type: liteapks
   name: via-browser
-  version: 6.7.1
+  version: 6.8.0
   url: https://liteapks.com/download/via-browser-99349
 - type: liteapks
   name: hiedu-calculator-pro
@@ -48,16 +48,16 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.9.14
 - type: github
   name: bitwarden/android
-  version: v2025.10.0-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2025.10.0-bwpm
+  version: v2025.10.1-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2025.10.1-bwpm
 - type: github
   name: gedoor/legado
   version: "3.25"
   url: https://github.com/gedoor/legado/releases/tag/3.25
 - type: github
   name: SagerNet/sing-box
-  version: v1.12.11
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.11
+  version: v1.12.12
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.12
 - type: liteapks
   name: mt-manager
   version: 2.19.2
