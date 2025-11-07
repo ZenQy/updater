@@ -16,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v6.0.11-rc
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.7.3
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.7.3
+  version: v4.7.4
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.7.4
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.12
@@ -68,8 +68,8 @@
   url: https://github.com/NitroRCr/AIaW/releases/tag/v1.8.5
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.4.0
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.4.0
+  version: v2.3.4.3
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.4.3
 - type: github
   name: lollipopkit/flutter_server_box
   version: v1.0.1270
