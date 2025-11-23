@@ -31,9 +31,7 @@
   version: v1.11.4
   url: https://github.com/gkd-kit/gkd/releases/tag/v1.11.4
 - type: github
-  name: gedoor/legado
-  version: "3.25"
-  url: https://github.com/gedoor/legado/releases/tag/3.25
+  name: HapeLee/legado-with-MD3
 - type: github
   name: aistra0528/Hail
   version: v1.9.0
@@ -51,10 +49,6 @@
   version: v2025.11.0-bwpm
   url: https://github.com/bitwarden/android/releases/tag/v2025.11.0-bwpm
 - type: github
-  name: gedoor/legado
-  version: "3.25"
-  url: https://github.com/gedoor/legado/releases/tag/3.25
-- type: github
   name: SagerNet/sing-box
   version: v1.12.12
   url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.12
@@ -63,14 +57,10 @@
   version: 2.19.3
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
-  name: NitroRCr/AIaW
-  version: v1.8.5
-  url: https://github.com/NitroRCr/AIaW/releases/tag/v1.8.5
-- type: github
   name: Jimex/DictTango-Android
   version: v2.3.5.1
   url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.5.1
-- type: github
-  name: lollipopkit/flutter_server_box
-  version: v1.0.1270
-  url: https://github.com/lollipopkit/flutter_server_box/releases/tag/v1.0.1270
+- type: liteapks
+  name: daremote
+- type: liteapks
+  name: question-ai
