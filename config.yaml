@@ -8,7 +8,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 12.2.5
+  version: 12.2.7
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -32,6 +32,8 @@
   url: https://github.com/gkd-kit/gkd/releases/tag/v1.11.4
 - type: github
   name: HapeLee/legado-with-MD3
+  version: 3.26.3
+  url: https://github.com/HapeLee/legado-with-MD3/releases/tag/3.26.3
 - type: github
   name: aistra0528/Hail
   version: v1.9.0
@@ -42,8 +44,8 @@
   url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.22.3
 - type: github
   name: obsidianmd/obsidian-releases
-  version: v1.10.3
-  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.10.3
+  version: v1.10.6
+  url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.10.6
 - type: github
   name: bitwarden/android
   version: v2025.11.0-bwpm
@@ -58,9 +60,13 @@
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.5.1
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.5.1
+  version: v2.3.5.2
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.5.2
 - type: liteapks
   name: daremote
+  version: 5.7.2
+  url: https://liteapks.com/download/daremote-690973
 - type: liteapks
   name: question-ai
+  version: 3.3.25
+  url: https://liteapks.com/download/question-ai-366272
