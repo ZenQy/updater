@@ -1,6 +1,6 @@
 - type: liteapks
   name: via-browser
-  version: 6.8.0
+  version: 6.9.0
   url: https://liteapks.com/download/via-browser-99349
 - type: liteapks
   name: hiedu-calculator-pro
@@ -8,7 +8,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 12.2.10
+  version: 12.2.11
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -16,8 +16,8 @@
   url: https://github.com/breezy-weather/breezy-weather/releases/tag/v6.0.12
 - type: github
   name: InfinityLoop1308/PipePipe
-  version: v4.7.6
-  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.7.6
+  version: v4.7.7
+  url: https://github.com/InfinityLoop1308/PipePipe/releases/tag/v4.7.7
 - type: github
   name: XayahSuSuSu/Android-DataBackup
   version: 2.0.12
@@ -52,21 +52,21 @@
   url: https://github.com/bitwarden/android/releases/tag/v2025.12.0-bwpm
 - type: github
   name: SagerNet/sing-box
-  version: v1.12.13
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.13
+  version: v1.12.14
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.14
 - type: liteapks
   name: mt-manager
   version: 2.19.4-clone
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.5.3
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.5.3
+  version: v2.3.5.6
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.5.6
 - type: liteapks
   name: daremote
-  version: 5.7.5
+  version: 5.8.0 b16827
   url: https://liteapks.com/download/daremote-690973
 - type: liteapks
   name: question-ai
-  version: 3.3.26
+  version: 3.3.27
   url: https://liteapks.com/download/question-ai-366272
