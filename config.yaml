@@ -4,7 +4,7 @@
   url: https://liteapks.com/download/via-browser-99349
 - type: liteapks
   name: hiedu-calculator-pro
-  version: 1.8.1
+  version: 1.8.2
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
@@ -36,12 +36,12 @@
   url: https://github.com/HapeLee/legado-with-MD3/releases/tag/3.26.4
 - type: github
   name: aistra0528/Hail
-  version: v1.9.0
-  url: https://github.com/aistra0528/Hail/releases/tag/v1.9.0
+  version: v1.10.0
+  url: https://github.com/aistra0528/Hail/releases/tag/v1.10.0
 - type: github
   name: ankidroid/Anki-Android
-  version: v2.23.1
-  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.23.1
+  version: v2.23.2
+  url: https://github.com/ankidroid/Anki-Android/releases/tag/v2.23.2
 - type: github
   name: obsidianmd/obsidian-releases
   version: v1.10.6
@@ -64,9 +64,9 @@
   url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.5.6
 - type: liteapks
   name: daremote
-  version: 5.8.0 b16827
+  version: 5.8.1
   url: https://liteapks.com/download/daremote-690973
 - type: liteapks
   name: question-ai
-  version: 3.3.27
+  version: 3.3.28
   url: https://liteapks.com/download/question-ai-366272
