@@ -8,7 +8,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 12.4.3
+  version: 12.5.1
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -48,12 +48,12 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.12.4
 - type: github
   name: bitwarden/android
-  version: v2026.2.0-bwa
-  url: https://github.com/bitwarden/android/releases/tag/v2026.2.0-bwa
+  version: v2026.2.1-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2026.2.1-bwpm
 - type: github
   name: SagerNet/sing-box
-  version: v1.12.23
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.12.23
+  version: v1.13.1
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.13.1
 - type: liteapks
   name: mt-manager
   version: 2.26.2
@@ -64,7 +64,7 @@
   url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.6.1
 - type: liteapks
   name: daremote
-  version: 5.11.3
+  version: 5.12.0
   url: https://liteapks.com/download/daremote-690973
 - type: liteapks
   name: question-ai
