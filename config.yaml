@@ -32,8 +32,8 @@
   url: https://github.com/gkd-kit/gkd/releases/tag/v1.11.6
 - type: github
   name: HapeLee/legado-with-MD3
-  version: 3.26.9
-  url: https://github.com/HapeLee/legado-with-MD3/releases/tag/3.26.9
+  version: 3.26.10
+  url: https://github.com/HapeLee/legado-with-MD3/releases/tag/3.26.10
 - type: github
   name: aistra0528/Hail
   version: v1.10.0
@@ -48,20 +48,20 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.12.7
 - type: github
   name: bitwarden/android
-  version: v2026.3.0-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2026.3.0-bwpm
+  version: v2026.3.1-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2026.3.1-bwpm
 - type: github
   name: SagerNet/sing-box
-  version: v1.13.4
-  url: https://github.com/SagerNet/sing-box/releases/tag/v1.13.4
+  version: v1.13.5
+  url: https://github.com/SagerNet/sing-box/releases/tag/v1.13.5
 - type: liteapks
   name: mt-manager
   version: 2.26.3
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.6.6
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.6.6
+  version: v2.3.6.8
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.6.8
 - type: liteapks
   name: daremote
   version: 5.12.4
