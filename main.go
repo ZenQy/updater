@@ -89,6 +89,7 @@ func Send(text string) {
 
 func Liteapks(c *Conf) error {
 	client := resty.New()
+	client.SetHeader("user-agent", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36")
 	resp, err := client.R().Get("https://liteapks.com/" + c.Name + ".html")
 	if err != nil {
 		return err
@@ -99,7 +100,7 @@ func Liteapks(c *Conf) error {
 		r := regexp.MustCompile(`"softwareVersion": "(.*?) ?",`)
 		m := r.FindStringSubmatch(txt)
 		if len(m) != 2 {
-			return errors.New("正则查询版本号失败")
+			return errors.New(c.Name + ": 正则查询版本号失败")
 		}
 		c.Version = m[1]
 	}
