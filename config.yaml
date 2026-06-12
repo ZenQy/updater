@@ -8,12 +8,12 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 12.7.3
+  version: 12.8.1
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
-  version: v6.2.0
-  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v6.2.0
+  version: v6.2.1
+  url: https://github.com/breezy-weather/breezy-weather/releases/tag/v6.2.1
 - type: github
   name: InfinityLoop1308/PipePipe
   version: v5.1.1
@@ -48,8 +48,8 @@
   url: https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.12.7
 - type: github
   name: bitwarden/android
-  version: v2026.5.0-bwpm
-  url: https://github.com/bitwarden/android/releases/tag/v2026.5.0-bwpm
+  version: v2026.5.1-bwpm
+  url: https://github.com/bitwarden/android/releases/tag/v2026.5.1-bwpm
 - type: github
   name: SagerNet/sing-box
   version: v1.13.13
@@ -60,9 +60,9 @@
   url: https://liteapks.com/download/mt-manager-2135
 - type: github
   name: Jimex/DictTango-Android
-  version: v2.3.7.5
-  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.7.5
+  version: v2.3.7.6
+  url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.7.6
 - type: liteapks
   name: daremote
-  version: 5.13.4
+  version: 5.13.5
   url: https://liteapks.com/download/daremote-690973
