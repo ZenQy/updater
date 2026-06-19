@@ -8,7 +8,7 @@
   url: https://liteapks.com/download/hiedu-calculator-pro-309007
 - type: liteapks
   name: telegram
-  version: 12.8.1
+  version: 12.8.2
   url: https://liteapks.com/download/telegram-810
 - type: github
   name: breezy-weather/breezy-weather
@@ -64,5 +64,5 @@
   url: https://github.com/Jimex/DictTango-Android/releases/tag/v2.3.7.6
 - type: liteapks
   name: daremote
-  version: 5.13.5
+  version: 5.13.6
   url: https://liteapks.com/download/daremote-690973
