@@ -43,10 +43,10 @@ jobs:
 
       - name: update
         run: |
-          wget https://github.com/ZenQy/updater/releases/latest/download/updater_x64
-          chmod +x updater_x64
-          ./updater_x64
-          rm updater_x64
+          wget https://github.com/ZenQy/updater/releases/latest/download/updater
+          chmod +x updater
+          ./updater
+          rm updater
 
       - name: Commit and Push
         run: |

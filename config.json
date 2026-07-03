@@ -1,0 +1,65 @@
+{
+  "github": [
+    {
+      "name": "gkd-kit/gkd",
+      "version": "v1.12.1"
+    },
+    {
+      "name": "breezy-weather/breezy-weather",
+      "version": "v6.2.1"
+    },
+    {
+      "name": "XayahSuSuSu/Android-DataBackup",
+      "version": "2.0.12"
+    },
+    {
+      "name": "bmax121/APatch",
+      "version": "11142"
+    },
+    {
+      "name": "HapeLee/legado-with-MD3",
+      "version": "3.26.12"
+    },
+    {
+      "name": "aistra0528/Hail",
+      "version": "v1.10.0"
+    },
+    {
+      "name": "ankidroid/Anki-Android",
+      "version": "v2.24.0"
+    },
+    {
+      "name": "bitwarden/android",
+      "version": "v2026.6.0-bwpm"
+    },
+    {
+      "name": "SagerNet/sing-box",
+      "version": "v1.13.14"
+    },
+    {
+      "name": "June6699/dart_simple_live",
+      "version": "v1.12.6"
+    }
+  ],
+  "liteapks": [
+    {
+      "name": "hiedu-calculator-pro"
+    },
+    {
+      "name": "telegram",
+      "version": "12.8.3"
+    },
+    {
+      "name": "mt-manager",
+      "version": "2.26.7"
+    },
+    {
+      "name": "daremote",
+      "version": "5.13.8"
+    },
+    {
+      "name": "xbrowser",
+      "version": "5.6.0"
+    }
+  ]
+}
