@@ -43,7 +43,8 @@
   ],
   "liteapks": [
     {
-      "name": "hiedu-calculator-pro"
+      "name": "hiedu-calculator-pro",
+      "version": "1.8.3"
     },
     {
       "name": "telegram",
