@@ -47,6 +47,10 @@
       "version": "1.8.3"
     },
     {
+      "name": "camscanner",
+      "version": "7.20.0.2606230000"
+    },
+    {
       "name": "telegram",
       "version": "12.8.3"
     },
