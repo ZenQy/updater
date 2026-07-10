@@ -30,7 +30,7 @@
     },
     {
       "name": "bitwarden/android",
-      "version": "v2026.6.0-bwpm"
+      "version": "v2026.6.1-bwpm"
     },
     {
       "name": "SagerNet/sing-box",
@@ -48,7 +48,7 @@
     },
     {
       "name": "camscanner",
-      "version": "7.20.0.2606230000"
+      "version": "7.20.5.2606250000"
     },
     {
       "name": "telegram",
@@ -60,7 +60,7 @@
     },
     {
       "name": "daremote",
-      "version": "5.13.8"
+      "version": "5.14.1"
     },
     {
       "name": "xbrowser",
