@@ -18,7 +18,7 @@
     },
     {
       "name": "HapeLee/legado-with-MD3",
-      "version": "3.26.12"
+      "version": "3.26.14"
     },
     {
       "name": "aistra0528/Hail",
@@ -48,11 +48,11 @@
     },
     {
       "name": "camscanner",
-      "version": "7.20.5.2606250000"
+      "version": "7.21.0.2607010000"
     },
     {
       "name": "telegram",
-      "version": "12.8.3"
+      "version": "12.9.0"
     },
     {
       "name": "mt-manager",
@@ -60,11 +60,11 @@
     },
     {
       "name": "daremote",
-      "version": "5.14.1"
+      "version": "5.14.3"
     },
     {
       "name": "xbrowser",
-      "version": "5.6.0"
+      "version": "5.6.2"
     }
   ]
 }
