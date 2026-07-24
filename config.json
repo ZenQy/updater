@@ -18,7 +18,7 @@
     },
     {
       "name": "HapeLee/legado-with-MD3",
-      "version": "3.26.14"
+      "version": "3.26.15"
     },
     {
       "name": "aistra0528/Hail",
@@ -30,7 +30,7 @@
     },
     {
       "name": "bitwarden/android",
-      "version": "v2026.6.1-bwpm"
+      "version": "v2026.7.0-bwpm"
     },
     {
       "name": "SagerNet/sing-box",
@@ -38,7 +38,7 @@
     },
     {
       "name": "June6699/dart_simple_live",
-      "version": "v1.12.6"
+      "version": "v1.12.7"
     }
   ],
   "liteapks": [
@@ -48,11 +48,11 @@
     },
     {
       "name": "camscanner",
-      "version": "7.21.0.2607010000"
+      "version": "7.22.0.2607210000"
     },
     {
       "name": "telegram",
-      "version": "12.9.0"
+      "version": "12.9.1"
     },
     {
       "name": "mt-manager",
