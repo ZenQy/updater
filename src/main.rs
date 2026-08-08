@@ -94,5 +94,5 @@ fn build_update_message(updates: &[config::UpdateInfo]) -> (config::Config, Stri
         }
     }
 
-    (cfg, format!("以下软件可以更新：{}", lines.join("\n")))
+    (cfg, format!("以下软件可以更新：\n{}", lines.join("\n")))
 }
