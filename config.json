@@ -30,11 +30,11 @@
     },
     {
       "name": "bitwarden/android",
-      "version": "v2026.7.0-bwpm"
+      "version": "v2026.7.1-bwpm"
     },
     {
       "name": "SagerNet/sing-box",
-      "version": "v1.13.16"
+      "version": "v1.13.18"
     },
     {
       "name": "June6699/dart_simple_live",
