@@ -30,25 +30,25 @@
     },
     {
       "name": "bitwarden/android",
-      "version": "v2026.7.1-bwpm"
+      "version": "v2026.8.0-bwpm"
     },
     {
       "name": "SagerNet/sing-box",
-      "version": "v1.13.18"
+      "version": "v1.13.19"
     },
     {
       "name": "June6699/dart_simple_live",
-      "version": "v1.12.7"
+      "version": "v1.12.8"
     }
   ],
   "liteapks": [
     {
       "name": "hiedu-calculator-pro",
-      "version": "1.8.3"
+      "version": "1.8.4"
     },
     {
       "name": "camscanner",
-      "version": "7.23.0.2607290000"
+      "version": "7.23.5.2608050000"
     },
     {
       "name": "telegram",
