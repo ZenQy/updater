@@ -5,10 +5,12 @@
       "version": "v1.12.1"
     },
     {
-      "name": "InlitX/streak"
+      "name": "InlitX/streak",
+      "version": "v1.6.0"
     },
     {
-      "name": "mokshablr/gander"
+      "name": "mokshablr/gander",
+      "version": "v1.11"
     },
     {
       "name": "breezy-weather/breezy-weather",
@@ -58,7 +60,7 @@
     },
     {
       "name": "telegram",
-      "version": "12.9.2"
+      "version": "12.10.0"
     },
     {
       "name": "mt-manager",
