@@ -50,5 +50,4 @@ jobs:
           allowUpdates: true
           removeArtifacts: true
           tag: v${{ env.DATE }}
-          token: ${{ secrets.RELEASES_TOKEN }}
           artifacts: target/release/updater
