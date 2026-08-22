@@ -1,0 +1,54 @@
+name: Release
+on:
+  workflow_dispatch:
+    inputs:
+      debug_enabled:
+        type: boolean
+        description: "Run the build with tmate debugging enabled"
+        required: false
+        default: false
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete older workflow runs and artifacts
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 3
+          keep_minimum_runs: 3
+
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Initialization Environment
+        run: |
+          sudo rm -rf /etc/apt/sources.list.d/* /usr/share/dotnet /etc/mysql /usr/local/lib/android /opt/ghc
+          sudo -E apt-get -y update
+          sudo -E apt-get -y install wget
+          sudo -E apt-get -y autoremove --purge
+          sudo -E apt-get -y clean
+          echo "DATE=$(date +"%Y.%m.%d")" >> $GITHUB_ENV
+
+      - name: install rust
+        uses: actions-rust-lang/setup-rust-toolchain@v1
+
+      - name: Setup tmate session
+        if: ${{ github.event_name == 'workflow_dispatch' && inputs.debug_enabled }}
+        uses: mxschmitt/action-tmate@v3
+
+      - name: build
+        run: cargo build --release
+
+      - name: Upload
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          removeArtifacts: true
+          tag: v${{ env.DATE }}
+          token: ${{ secrets.RELEASES_TOKEN }}
+          artifacts: target/release/updater
