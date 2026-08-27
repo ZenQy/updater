@@ -74,5 +74,11 @@
       "name": "xbrowser",
       "version": "5.6.3"
     }
+  ],
+  "fdroid": [
+    {
+      "name": "nodomain.freeyourgadget.gadgetbridge",
+      "version": "252"
+    }
   ]
 }

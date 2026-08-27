@@ -26,6 +26,8 @@ pub struct Config {
     pub github: Vec<App>,
     /// 来自 Liteapks 的应用列表
     pub liteapks: Vec<App>,
+    /// 来自 f-droid 的应用列表
+    pub fdroid: Vec<App>,
 }
 
 impl Config {
@@ -72,4 +74,6 @@ pub enum Platform {
     GitHub,
     /// Liteapks
     LiteApks,
+    /// f-droid
+    Fdroid,
 }

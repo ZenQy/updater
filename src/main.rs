@@ -13,6 +13,7 @@ use std::time::Duration;
 use crate::config::App;
 
 mod config;
+mod fdroid;
 mod github;
 mod liteapks;
 mod telegram;
@@ -36,14 +37,16 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let cfg = config::Config::from_file(CONFIG_PATH)?;
 
     // 并发检查 GitHub 和 Liteapks
-    let (github_updates, liteapks_updates) = tokio::join!(
+    let (github_updates, liteapks_updates, fdroid_updates) = tokio::join!(
         github::check_updates(&client, &cfg.github),
         liteapks::check_updates(&client, &cfg.liteapks),
+        fdroid::check_updates(&client, &cfg.fdroid),
     );
 
     let all_updates = github_updates
         .into_iter()
         .chain(liteapks_updates)
+        .chain(fdroid_updates)
         .collect::<Vec<_>>();
 
     let (cfg, message) = build_update_message(&all_updates);
@@ -87,6 +90,18 @@ fn build_update_message(updates: &[config::UpdateInfo]) -> (config::Config, Stri
                     ));
                 }
                 cfg.liteapks.push(App {
+                    name: info.name.clone(),
+                    version: info.new_version.clone(),
+                });
+            }
+            config::Platform::Fdroid => {
+                if info.new_version != info.current_version {
+                    lines.push(format!(
+                        "[🔗{}({})](https://f-droid.org/zh_Hans/packages/{}/)",
+                        info.name, info.new_version, info.name
+                    ));
+                }
+                cfg.fdroid.push(App {
                     name: info.name.clone(),
                     version: info.new_version.clone(),
                 });
