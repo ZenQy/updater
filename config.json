@@ -6,15 +6,15 @@
     },
     {
       "name": "InlitX/streak",
-      "version": "v1.6.0"
+      "version": "v1.7.0"
     },
     {
       "name": "mokshablr/gander",
-      "version": "v1.11"
+      "version": "v1.13"
     },
     {
       "name": "breezy-weather/breezy-weather",
-      "version": "v6.2.1"
+      "version": "v6.2.2"
     },
     {
       "name": "XayahSuSuSu/Android-DataBackup",
@@ -30,7 +30,7 @@
     },
     {
       "name": "aistra0528/Hail",
-      "version": "v1.10.0"
+      "version": "v1.11.0"
     },
     {
       "name": "ankidroid/Anki-Android",
@@ -56,11 +56,11 @@
     },
     {
       "name": "camscanner",
-      "version": "7.23.5.2608050000"
+      "version": "7.24.5.2608200000"
     },
     {
       "name": "telegram",
-      "version": "12.10.0"
+      "version": "12.10.1"
     },
     {
       "name": "mt-manager",
@@ -73,12 +73,6 @@
     {
       "name": "xbrowser",
       "version": "5.6.3"
-    }
-  ],
-  "fdroid": [
-    {
-      "name": "nodomain.freeyourgadget.gadgetbridge",
-      "version": "252"
     }
   ]
 }
