@@ -71,8 +71,18 @@
       "version": "5.15.0"
     },
     {
+      "name": "mark-camera",
+      "version": "4.2.9"
+    },
+    {
       "name": "xbrowser",
       "version": "5.6.3"
+    }
+  ],
+  "fdroid": [
+    {
+      "name": "nodomain.freeyourgadget.gadgetbridge",
+      "version": "252"
     }
   ]
 }
