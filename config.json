@@ -10,7 +10,7 @@
     },
     {
       "name": "mokshablr/gander",
-      "version": "v1.16"
+      "version": "v1.17"
     },
     {
       "name": "breezy-weather/breezy-weather",
@@ -38,15 +38,15 @@
     },
     {
       "name": "bitwarden/android",
-      "version": "v2026.8.1-bwpm"
+      "version": "v2026.9.0-bwpm"
     },
     {
       "name": "SagerNet/sing-box",
-      "version": "v1.14.0"
+      "version": "v1.14.1"
     },
     {
       "name": "June6699/dart_simple_live",
-      "version": "v1.12.8"
+      "version": "v1.13.0-pre"
     }
   ],
   "liteapks": [
@@ -56,11 +56,11 @@
     },
     {
       "name": "camscanner",
-      "version": "7.25.0.2608260000"
+      "version": "7.25.5.2609020000"
     },
     {
       "name": "telegram",
-      "version": "12.10.1"
+      "version": "12.10.3"
     },
     {
       "name": "mt-manager",
@@ -68,7 +68,7 @@
     },
     {
       "name": "daremote",
-      "version": "5.15.1"
+      "version": "5.15.2"
     },
     {
       "name": "mark-camera",
@@ -76,13 +76,13 @@
     },
     {
       "name": "xbrowser",
-      "version": "5.6.3"
+      "version": "5.6.4"
     }
   ],
   "fdroid": [
     {
       "name": "nodomain.freeyourgadget.gadgetbridge",
-      "version": "252"
+      "version": "253"
     }
   ]
 }
