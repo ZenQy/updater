@@ -6,7 +6,7 @@
     },
     {
       "name": "InlitX/streak",
-      "version": "v1.9.0"
+      "version": "v2.0.0"
     },
     {
       "name": "mokshablr/gander",
@@ -42,11 +42,11 @@
     },
     {
       "name": "SagerNet/sing-box",
-      "version": "v1.14.1"
+      "version": "v1.14.2"
     },
     {
       "name": "June6699/dart_simple_live",
-      "version": "v1.13.0-pre"
+      "version": "v1.13.1"
     }
   ],
   "liteapks": [
@@ -56,11 +56,11 @@
     },
     {
       "name": "camscanner",
-      "version": "7.25.5.2609020000"
+      "version": "7.26.5.2609160000"
     },
     {
       "name": "telegram",
-      "version": "12.10.3"
+      "version": "12.10.4"
     },
     {
       "name": "mt-manager",
@@ -68,7 +68,7 @@
     },
     {
       "name": "daremote",
-      "version": "5.15.2"
+      "version": "5.15.3"
     },
     {
       "name": "mark-camera",
