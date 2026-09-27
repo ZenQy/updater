@@ -7,8 +7,9 @@ use tracing::{info, warn};
 use crate::config::{MAX_CONCURRENT_REQUESTS, Platform, USER_AGENT, UpdateInfo};
 
 /// 版本号正则表达式（懒加载，只编译一次）
-static VERSION_REGEX: once_cell::sync::Lazy<regex::Regex> =
-    once_cell::sync::Lazy::new(|| regex::Regex::new(r#""softwareVersion": "(.*?)""#).unwrap());
+static VERSION_REGEX: once_cell::sync::Lazy<regex::Regex> = once_cell::sync::Lazy::new(|| {
+    regex::Regex::new(r#"<span class="flex items-center gap-2">\n(.*?) .*?</span>"#).unwrap()
+});
 
 /// 并发检查所有 Liteapks 应用的新版本
 ///
@@ -90,7 +91,7 @@ async fn get_latest_version(
     let _timer = Instant::now();
 
     let body = client
-        .get(format!("https://liteapks.com/{}.html", app_name))
+        .get(format!("https://liteapks.com/download/{}", app_name))
         .header("user-agent", USER_AGENT)
         .send()
         .await?

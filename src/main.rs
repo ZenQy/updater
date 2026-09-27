@@ -85,7 +85,7 @@ fn build_update_message(updates: &[config::UpdateInfo]) -> (config::Config, Stri
             config::Platform::LiteApks => {
                 if info.new_version != info.current_version {
                     lines.push(format!(
-                        "[🔗{}({})](https://liteapks.com/{}.html)",
+                        "[🔗{}({})](https://liteapks.com/download/{}/1)",
                         info.name, info.new_version, info.name
                     ));
                 }
@@ -97,8 +97,8 @@ fn build_update_message(updates: &[config::UpdateInfo]) -> (config::Config, Stri
             config::Platform::Fdroid => {
                 if info.new_version != info.current_version {
                     lines.push(format!(
-                        "[🔗{}({})](https://f-droid.org/zh_Hans/packages/{}/)",
-                        info.name, info.new_version, info.name
+                        "[🔗{}({})](https://f-droid.org/repo/{}_{}.apk)",
+                        info.name, info.new_version, info.name, info.new_version
                     ));
                 }
                 cfg.fdroid.push(App {

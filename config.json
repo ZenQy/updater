@@ -5,14 +5,6 @@
       "version": "v1.12.1"
     },
     {
-      "name": "InlitX/streak",
-      "version": "v2.0.0"
-    },
-    {
-      "name": "mokshablr/gander",
-      "version": "v1.17"
-    },
-    {
       "name": "breezy-weather/breezy-weather",
       "version": "v6.2.2"
     },
@@ -47,36 +39,44 @@
     {
       "name": "June6699/dart_simple_live",
       "version": "v1.13.1"
+    },
+    {
+      "name": "resurrectdev1/Grove",
+      "version": "v0.7.8"
     }
   ],
   "liteapks": [
     {
-      "name": "hiedu-calculator-pro",
-      "version": "1.8.4"
+      "name": "hiedu-calculator-pro-309007",
+      "version": "v1.8.4"
     },
     {
-      "name": "camscanner",
-      "version": "7.26.5.2609160000"
+      "name": "foldersync-pro-32296",
+      "version": "v4.13.0"
     },
     {
-      "name": "telegram",
-      "version": "12.10.4"
+      "name": "camscanner-320",
+      "version": "v7.26.5.2609160000"
     },
     {
-      "name": "mt-manager",
-      "version": "2.26.9"
+      "name": "telegram-810",
+      "version": "v12.10.4"
     },
     {
-      "name": "daremote",
-      "version": "5.15.3"
+      "name": "mt-manager-2135",
+      "version": "v2.26.9"
     },
     {
-      "name": "mark-camera",
-      "version": "4.4.1"
+      "name": "daremote-690973",
+      "version": "v5.15.3"
     },
     {
-      "name": "xbrowser",
-      "version": "5.6.4"
+      "name": "mark-camera-827929",
+      "version": "v4.4.1"
+    },
+    {
+      "name": "xbrowser-11458",
+      "version": "v5.6.4"
     }
   ],
   "fdroid": [
