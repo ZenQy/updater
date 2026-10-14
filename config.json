@@ -5,6 +5,10 @@
       "version": "v1.12.1"
     },
     {
+      "name": "resurrectdev1/Grove",
+      "version": "v1.12.1"
+    },
+    {
       "name": "breezy-weather/breezy-weather",
       "version": "v6.2.2"
     },
@@ -52,6 +56,10 @@
     },
     {
       "name": "foldersync-pro-32296",
+      "version": "v4.14.0"
+    },
+    {
+      "name": "audiolab-3711",
       "version": "v4.14.0"
     },
     {
