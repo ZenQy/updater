@@ -6,7 +6,7 @@
     },
     {
       "name": "resurrectdev1/Grove",
-      "version": "v1.12.1"
+      "version": "v0.8.0"
     },
     {
       "name": "breezy-weather/breezy-weather",
@@ -18,7 +18,7 @@
     },
     {
       "name": "bmax121/APatch",
-      "version": "11224"
+      "version": "11282"
     },
     {
       "name": "HapeLee/legado-with-MD3",
@@ -30,11 +30,11 @@
     },
     {
       "name": "ankidroid/Anki-Android",
-      "version": "v2.25.1"
+      "version": "v2.25.2"
     },
     {
       "name": "bitwarden/android",
-      "version": "v2026.9.1-bwpm"
+      "version": "v2026.10.0-bwpm"
     },
     {
       "name": "SagerNet/sing-box",
@@ -46,7 +46,7 @@
     },
     {
       "name": "resurrectdev1/Grove",
-      "version": "v0.7.8"
+      "version": "v0.8.0"
     }
   ],
   "liteapks": [
@@ -60,7 +60,7 @@
     },
     {
       "name": "audiolab-3711",
-      "version": "v4.14.0"
+      "version": "v1.3.33"
     },
     {
       "name": "camscanner-320",
@@ -68,7 +68,7 @@
     },
     {
       "name": "telegram-810",
-      "version": "v12.10.5"
+      "version": "v13.0.2"
     },
     {
       "name": "mt-manager-2135",
@@ -76,7 +76,7 @@
     },
     {
       "name": "daremote-690973",
-      "version": "v5.16.0"
+      "version": "v5.16.1"
     },
     {
       "name": "mark-camera-827929",
@@ -90,7 +90,7 @@
   "fdroid": [
     {
       "name": "nodomain.freeyourgadget.gadgetbridge",
-      "version": "253"
+      "version": "255"
     }
   ]
 }
