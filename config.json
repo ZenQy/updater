@@ -6,7 +6,7 @@
     },
     {
       "name": "resurrectdev1/Grove",
-      "version": "v0.8.0"
+      "version": "v0.8.2"
     },
     {
       "name": "breezy-weather/breezy-weather",
@@ -22,7 +22,7 @@
     },
     {
       "name": "HapeLee/legado-with-MD3",
-      "version": "3.26.15"
+      "version": "3.26.18"
     },
     {
       "name": "aistra0528/Hail",
@@ -30,7 +30,7 @@
     },
     {
       "name": "ankidroid/Anki-Android",
-      "version": "v2.25.2"
+      "version": "v2.25.3"
     },
     {
       "name": "bitwarden/android",
@@ -42,11 +42,11 @@
     },
     {
       "name": "June6699/dart_simple_live",
-      "version": "v1.13.1"
+      "version": "v1.13.2"
     },
     {
       "name": "resurrectdev1/Grove",
-      "version": "v0.8.0"
+      "version": "v0.8.2"
     }
   ],
   "liteapks": [
@@ -80,7 +80,7 @@
     },
     {
       "name": "mark-camera-827929",
-      "version": "v4.3.9"
+      "version": "v4.5.1"
     },
     {
       "name": "xbrowser-11458",
