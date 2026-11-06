@@ -2,7 +2,7 @@
   "github": [
     {
       "name": "gkd-kit/gkd",
-      "version": "v1.12.1"
+      "version": "v1.13.0"
     },
     {
       "name": "resurrectdev1/Grove",
@@ -22,7 +22,7 @@
     },
     {
       "name": "HapeLee/legado-with-MD3",
-      "version": "3.26.19"
+      "version": "3.26.23"
     },
     {
       "name": "aistra0528/Hail",
@@ -72,11 +72,11 @@
     },
     {
       "name": "mt-manager-2135",
-      "version": "v2.26.10"
+      "version": "v2.26.11"
     },
     {
       "name": "daremote-690973",
-      "version": "v5.16.4"
+      "version": "v5.16.5"
     },
     {
       "name": "mark-camera-827929",
@@ -90,7 +90,7 @@
   "fdroid": [
     {
       "name": "nodomain.freeyourgadget.gadgetbridge",
-      "version": "255"
+      "version": "256"
     }
   ]
 }
