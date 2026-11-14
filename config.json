@@ -2,11 +2,11 @@
   "github": [
     {
       "name": "gkd-kit/gkd",
-      "version": "v1.13.0"
+      "version": "v1.13.2"
     },
     {
       "name": "resurrectdev1/Grove",
-      "version": "v0.8.2"
+      "version": "v0.8.4"
     },
     {
       "name": "breezy-weather/breezy-weather",
@@ -22,7 +22,7 @@
     },
     {
       "name": "HapeLee/legado-with-MD3",
-      "version": "3.26.23"
+      "version": "3.26.25"
     },
     {
       "name": "aistra0528/Hail",
@@ -42,11 +42,11 @@
     },
     {
       "name": "June6699/dart_simple_live",
-      "version": "v1.13.2"
+      "version": "v1.13.3"
     },
     {
       "name": "resurrectdev1/Grove",
-      "version": "v0.8.2"
+      "version": "v0.8.4"
     }
   ],
   "liteapks": [
@@ -64,7 +64,7 @@
     },
     {
       "name": "camscanner-320",
-      "version": "v7.27.5.2610140000"
+      "version": "v7.28.5.2611020000"
     },
     {
       "name": "telegram-810",
@@ -80,7 +80,7 @@
     },
     {
       "name": "mark-camera-827929",
-      "version": "v4.5.1"
+      "version": "v4.5.3"
     },
     {
       "name": "xbrowser-11458",
@@ -90,7 +90,7 @@
   "fdroid": [
     {
       "name": "nodomain.freeyourgadget.gadgetbridge",
-      "version": "256"
+      "version": "257"
     }
   ]
 }
